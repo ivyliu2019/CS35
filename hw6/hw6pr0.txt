@@ -1,0 +1,8 @@
+“
+Disney has ripped a jewel out of its casing and set it in something far more elaborate; the effect is garish rather than nostalgic, frustrating rather than memorable.
+”
+This is the example that I think the sentiment estimated by this site is very accurate. The overall sentiment is negative.
+
+“[The film] isn't without cliché or convenience, but it possesses enough heart to combat them.”
+
+ This is the example that I disagree with the sentiment estimated by this site. The site predicts the sentiment to be neutral, but I think it is more close to positive. The movie-sentiment model is accurate word by word but when it may be not comprehensive enough to predict the review as a whole in certain context.

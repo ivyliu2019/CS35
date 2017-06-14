@@ -1,0 +1,8 @@
+Original:
+A paraphrase is your own rendition of essential information and ideas expressed by someone else, presented in a new form. It is also one legitimate way (when accompanied by accurate documentation) to borrow from a source and a more detailed restatement than a summary, which focuses concisely on a single main idea. Paraphrasing is a valuable skill because it is better than quoting information from an undistinguished passage. Also, it helps you control the temptation to quote too much and the mental process required for successful paraphrasing helps you to grasp the full meaning of the original.
+
+Paraphrased:
+The quote seems my personal duet of indispensable contact and concepts professed with anyone anyway submitted during a current shape. He seems meanwhile two justifiable thing how greeted with reliable evidence to subsidize in a contributor and a less exhaustive accounting about a analysis which includes concisely upon a third central concept. Paraphrasing seems a invaluable aptitude although he seems more about paraphrasing contact in this respectable enactment. Lastly he gives I control another compulsion to summarize so little and another psychological method needed in unsuccessful quote gives I to realize another complete denote of another actual.
+
+What I chose and how it did:
+I used lemmatize to check if two words have the same stem/root, then used part-of-speech tagging to ensure that two words are the same part of speech and lastly, I checked to ensure that the replacement word does not have the same first letter as the original one. But still the performance is not perfect.
