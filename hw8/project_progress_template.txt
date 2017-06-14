@@ -1,0 +1,24 @@
+#
+# Project Progress - initial week
+#
+
+Along with the project-proposal and plan, I ask you to spend some time this week with the initial tasks of exploring your project. 
+
+Here is a starting point for a one-page (or so) description of your progress in this first week. It does _not_ have to be a text file like this one! Any usual document format is ok.
+
+For example, it's ideal to elaborate on
+  + [desirable]  Did you find one or more libraries/resources… what are they?
+  + [desirable]  Have you successfully installed/run the software… ? How did it go?
+  + [desirable]   What is your plan for getting to know the library/resources?
+    + Is there a tutorial? A set of examples? Other online (or offline) guides?
+    + What are they? How far have you made it in this first week?
+  + [wonderful, but not required]  Have you been able to adapt one or more of the library's resources to something related to your own piece of the project
+
+
+And, it's open-ended from there…
+
+In essence, the goal here is to 
+  (a) make sure the software and other resources are working by the end of the first week and 
+  (b) you've successfully started using it -- and have a concrete plan for what to pursue next.
+
+Good luck getting started on these final projects!

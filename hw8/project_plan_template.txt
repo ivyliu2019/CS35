@@ -1,0 +1,32 @@
+#
+# Project Plan
+#
+
+Feel free to use this file -- or create another one (.docx, .pdf, ...) for your project plan.
+
+Here is the list of things to include, copied from the hw8 page:
+
+Overview of your idea and big-picture goals for the project
+  + a description (~1 paragraph) of - overall - what you'd like the project to do/investigate - including a bit of the motivation behind it
+  + Especially encouraged:  overlaps with other projects/interests you have in your major, other academic work, or something entirely non-academic
+
+Specific Python library/libraries 
+  + one (or more) Python libraries/resources you'd like to investigate/use
+  + Since it's cs35, yours should be largely a Python-based project
+  + it can certainly overlap with other languages
+  + it can also be to learn a new Python library or framework
+  + it's ideal to have an online tutorial to get you started -- as long as you go beyond that tutorial
+
+Other resources from which you will get started: 
+  + as noted, a great template is to work through a library's online or other tutorial/examples
+then, do something of your own that extends those examples
+  + Be sure to explain the novel vs. the provided portions of your project
+
+Proposed timeline for progress/subgoals
+  + Propose a short timeline that's  concrete as possible -- at least for the first few tasks…
+    + What you'll work on this week
+    + What you'll seek to have accomplished by your presentation
+    + What you'll want to have completed by the end of the project
+  + As we progress, you'll be able to adapt -- to align with what's interesting and feasible!
+  + Still, it's still good to have a starting list of tasks.
+
