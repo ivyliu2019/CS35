@@ -1,0 +1,15 @@
+{
+  "resultCount": 1, 
+  "results": [
+    {
+      "artistType": "Artist", 
+      "amgArtistId": 2786233, 
+      "wrapperType": "artist", 
+      "artistId": 183313439, 
+      "artistLinkUrl": "https://itunes.apple.com/us/artist/ed-sheeran/id183313439?uo=4", 
+      "artistName": "Ed Sheeran", 
+      "primaryGenreId": 10, 
+      "primaryGenreName": "Singer/Songwriter"
+    }
+  ]
+}
